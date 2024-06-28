@@ -6,7 +6,7 @@ import { Label } from "@/components/ui/label";
 
 const Index = () => {
   return (
-    <div className="h-screen w-screen flex items-center justify-center bg-gray-100">
+    <div className="flex-grow flex items-center justify-center bg-gray-100">
       <Card className="w-full max-w-md mx-auto shadow-lg">
         <CardHeader>
           <CardTitle className="text-center text-2xl">Welcome to Your App</CardTitle>
